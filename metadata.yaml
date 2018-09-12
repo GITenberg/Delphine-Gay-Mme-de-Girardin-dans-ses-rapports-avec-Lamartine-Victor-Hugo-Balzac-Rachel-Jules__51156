@@ -1,0 +1,27 @@
+_repo: Delphine-Gay-Mme-de-Girardin-dans-ses-rapports-avec-Lamartine-Victor-Hugo-Balzac-Rachel-Jules__51156
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Séché, Léon
+    alias: Seche, Leon
+    birthdate: 1848
+    deathdate: 1914
+    gutenberg_agent_id: '46267'
+    url: http://www.gutenberg.org/2009/agents/46267
+description: ''
+gutenberg_bookshelf: FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51156'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girardin, Emile de, Mme, 1804-1855'
+- !lcc 'PQ'
+- GITenberg
+title: Delphine Gay, Mme de Girardin, dans ses rapports avec Lamartine, Victor Hugo,
+  Balzac, Rachel, Jules Sandeau, Dumas, Eugène Sue et George Sand (documents inédits)
+url: http://www.gutenberg.org/ebooks/51156
